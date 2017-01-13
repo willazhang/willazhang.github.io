@@ -6,7 +6,7 @@ header-img: "img/background_grey.png"
 ---
 
 <center>
-    <p><img src="img/blog_url.png" align="center"></p>
+    <p><img src="img/mine_logo.jpg" align="center"></p>
 </center>
 
 ## 信息
